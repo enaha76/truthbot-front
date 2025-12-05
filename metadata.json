@@ -1,0 +1,8 @@
+{
+  "name": "Copy of NIRD Village AI",
+  "description": "A playful AI prototype helping the 'Resilient Digital Village' fight Big Tech obsolescence through education, repair analysis, and open-source guidance.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
