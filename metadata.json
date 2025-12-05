@@ -1,6 +1,6 @@
 {
-  "name": "Copy of NIRD Village AI",
-  "description": "A playful AI prototype helping the 'Resilient Digital Village' fight Big Tech obsolescence through education, repair analysis, and open-source guidance.",
+  "name": "Truthboot - Content Analyzer",
+  "description": "A professional tool for analyzing text, tweets, articles, and images for misinformation using AI.",
   "requestFramePermissions": [
     "camera",
     "microphone"
